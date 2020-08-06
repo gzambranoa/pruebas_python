@@ -11,3 +11,12 @@ adduser gzambrano
 # asignando permisos de sudo al usuario gzambrano
 echo "gzambrano ALL=(ALL:ALL) NOPASSWD:ALL" > /etc/sudoers.d/gzambrano
 
+# Clone del repo de scripts
+git clone https://github.com/gzambranoa/pruebas_python.git
+
+
+# Guardar cambios en el repo local
+#git commit
+
+# Subir cambios al repo remoto
+#git push
