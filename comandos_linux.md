@@ -10,3 +10,6 @@ watch
 ping
 curl
 cat /etc/*release (muestra la version de la distro)
+set +x
+export
+alias
