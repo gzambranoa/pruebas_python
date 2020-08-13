@@ -19,8 +19,25 @@ head
 mv
 cp
 rm
+ping
+curl
+
+#ssh
+ssh
+scp
+
+# para Programar scripts
+source ../conf/scripts.cfg
+asignacion de variables:
+REMOTeHOME="/home/automata1"
+if
+time
+export
+
 # Tuberias |
 # Redirecciones <> 
+
+
 
 # Git
 git clone # copia el repositorio remoto en la maquina donde este
