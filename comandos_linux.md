@@ -58,7 +58,7 @@ curl
 xargs
 top
 ps
-
+ip a s (ver la ip de la maquina)
 
 #ssh
 ssh
