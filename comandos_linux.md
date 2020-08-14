@@ -56,6 +56,9 @@ rm
 ping
 curl
 xargs
+top
+ps
+
 
 #ssh
 ssh
