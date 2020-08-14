@@ -31,6 +31,11 @@ d9afaba5955e
 0618de56a259
 f8eacdfab3c8
 
+date
+shutdown -h now 
+poweroff 
+mount
+df
 echo
 less
 cat
